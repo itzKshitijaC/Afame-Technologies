@@ -11,6 +11,10 @@ This project will require you to take into a sizable sales dataset in order to g
 This assignment demonstrates your capacity to work with and extract knowledge from huge datasets,
 empowering you to provide data-driven suggestions for improving sales tactics.
 
+<img src="https://github.com/user-attachments/assets/567cbaf2-612b-4233-a96b-f8ac70e4d0c1" width="600" height="400" alt="Descriptive Alt Text">
+
+![sales_dashboard](https://github.com/user-attachments/assets/9d8d25a7-9e91-4c18-b9cc-2d4f49b006ee)
+
 ## 2. HR Data Analytics 
 Activities to complete:
 Data cleansing involves removing unnecessary columns.
